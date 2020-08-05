@@ -1,0 +1,4 @@
+Kazakhstan~~~18000000~~~false
+USA~~~330000000~~~true
+Canada~~~30000000~~~true
+Pakistan~~~200000000~~~false
